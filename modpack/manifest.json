@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "overrides": "overrides",
   "manifestVersion": 1,
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "",
   "name": "Heir of Ivaldi",
   "files": [
@@ -128,7 +128,7 @@
     },
     {
       "projectID": 243121,
-      "fileID": 3770794,
+      "fileID": 3787172,
       "required": true,
       "__meta": {
         "name": "Quark",
@@ -196,7 +196,7 @@
     },
     {
       "projectID": 252042,
-      "fileID": 3751371,
+      "fileID": 3788082,
       "required": true,
       "__meta": {
         "name": "Paintings ++"
@@ -267,6 +267,14 @@
       }
     },
     {
+      "projectID": 282001,
+      "fileID": 3770724,
+      "required": true,
+      "__meta": {
+        "name": "CC: Tweaked"
+      }
+    },
+    {
       "projectID": 283644,
       "fileID": 3725741,
       "required": true,
@@ -291,6 +299,17 @@
       "required": true,
       "__meta": {
         "name": "Paragliders"
+      }
+    },
+    {
+      "projectID": 291936,
+      "fileID": 3732916,
+      "required": true,
+      "__meta": {
+        "name": "FindMe",
+        "dependencies": [
+          419699
+        ]
       }
     },
     {
@@ -362,7 +381,7 @@
     },
     {
       "projectID": 312918,
-      "fileID": 3765679,
+      "fileID": 3788736,
       "required": true,
       "__meta": {
         "name": "Blue Skies",
@@ -429,7 +448,7 @@
     },
     {
       "projectID": 331936,
-      "fileID": 3732360,
+      "fileID": 3783096,
       "required": true,
       "__meta": {
         "name": "Citadel"
@@ -437,7 +456,7 @@
     },
     {
       "projectID": 331983,
-      "fileID": 3765018,
+      "fileID": 3790369,
       "required": true,
       "__meta": {
         "name": "Corail Woodcutter"
@@ -500,10 +519,26 @@
     },
     {
       "projectID": 348521,
-      "fileID": 3641133,
+      "fileID": 3782776,
       "required": true,
       "__meta": {
         "name": "Cloth Config API (Fabric/Forge)"
+      }
+    },
+    {
+      "projectID": 351264,
+      "fileID": 3768446,
+      "required": true,
+      "__meta": {
+        "name": "Kotlin for Forge"
+      }
+    },
+    {
+      "projectID": 351725,
+      "fileID": 3683688,
+      "required": true,
+      "__meta": {
+        "name": "Macaw's Bridges"
       }
     },
     {
@@ -539,6 +574,14 @@
       }
     },
     {
+      "projectID": 363363,
+      "fileID": 3648159,
+      "required": true,
+      "__meta": {
+        "name": "Extreme sound muffler (Forge)"
+      }
+    },
+    {
       "projectID": 363703,
       "fileID": 3780535,
       "required": true,
@@ -567,7 +610,7 @@
     },
     {
       "projectID": 388172,
-      "fileID": 3755165,
+      "fileID": 3785773,
       "required": true,
       "__meta": {
         "name": "GeckoLib"
@@ -594,7 +637,7 @@
     },
     {
       "projectID": 398521,
-      "fileID": 3765351,
+      "fileID": 3784851,
       "required": true,
       "__meta": {
         "name": "Farmer's Delight"
@@ -624,14 +667,14 @@
     },
     {
       "projectID": 401955,
-      "fileID": 3765049,
+      "fileID": 3790901,
       "required": true,
       "__meta": {
         "name": "Ars Nouveau",
         "dependencies": [
           309927,
-          388172,
-          306770
+          306770,
+          388172
         ]
       }
     },
@@ -644,6 +687,14 @@
         "dependencies": [
           419699
         ]
+      }
+    },
+    {
+      "projectID": 408759,
+      "fileID": 3776203,
+      "required": true,
+      "__meta": {
+        "name": "Windowlogging"
       }
     },
     {
@@ -681,7 +732,7 @@
     },
     {
       "projectID": 419699,
-      "fileID": 3781711,
+      "fileID": 3786591,
       "required": true,
       "__meta": {
         "name": "Architectury API (Fabric/Forge)"
@@ -719,7 +770,7 @@
     },
     {
       "projectID": 426558,
-      "fileID": 3709858,
+      "fileID": 3785938,
       "required": true,
       "__meta": {
         "name": "Alex's Mobs",
@@ -737,11 +788,27 @@
       }
     },
     {
+      "projectID": 438116,
+      "fileID": 3696704,
+      "required": true,
+      "__meta": {
+        "name": "Macaw's Paintings"
+      }
+    },
+    {
       "projectID": 440845,
       "fileID": 3679880,
       "required": true,
       "__meta": {
         "name": "More Minecarts and Rails"
+      }
+    },
+    {
+      "projectID": 441114,
+      "fileID": 3780211,
+      "required": true,
+      "__meta": {
+        "name": "Neko's Enchanted Books"
       }
     },
     {
@@ -762,7 +829,7 @@
     },
     {
       "projectID": 455982,
-      "fileID": 3780926,
+      "fileID": 3791304,
       "required": true,
       "__meta": {
         "name": "WTHIT Forge Edition",
@@ -788,6 +855,17 @@
       }
     },
     {
+      "projectID": 458048,
+      "fileID": 3777811,
+      "required": true,
+      "__meta": {
+        "name": "Diagonal Fences",
+        "dependencies": [
+          495476
+        ]
+      }
+    },
+    {
       "projectID": 459701,
       "fileID": 3721991,
       "required": true,
@@ -808,7 +886,7 @@
     },
     {
       "projectID": 466792,
-      "fileID": 3739728,
+      "fileID": 3790657,
       "required": true,
       "__meta": {
         "name": "Create Stuff Additions",
@@ -864,11 +942,27 @@
       }
     },
     {
+      "projectID": 493280,
+      "fileID": 3776959,
+      "required": true,
+      "__meta": {
+        "name": "Lucent"
+      }
+    },
+    {
       "projectID": 495476,
       "fileID": 3773679,
       "required": true,
       "__meta": {
         "name": "Puzzles Lib [Forge]"
+      }
+    },
+    {
+      "projectID": 495693,
+      "fileID": 3752368,
+      "required": true,
+      "__meta": {
+        "name": "Farsight [Forge]"
       }
     },
     {
@@ -903,7 +997,7 @@
     },
     {
       "projectID": 499826,
-      "fileID": 3576905,
+      "fileID": 3783429,
       "required": true,
       "__meta": {
         "name": "Advancement Plaques",
@@ -932,6 +1026,29 @@
       }
     },
     {
+      "projectID": 504908,
+      "fileID": 3778233,
+      "required": true,
+      "__meta": {
+        "name": "Traveler's Titles (Forge)",
+        "dependencies": [
+          421850
+        ]
+      }
+    },
+    {
+      "projectID": 509575,
+      "fileID": 3745494,
+      "required": true,
+      "__meta": {
+        "name": "Observable",
+        "dependencies": [
+          351264,
+          419699
+        ]
+      }
+    },
+    {
       "projectID": 510089,
       "fileID": 3777934,
       "required": true,
@@ -956,6 +1073,17 @@
       "required": true,
       "__meta": {
         "name": "Iceberg"
+      }
+    },
+    {
+      "projectID": 526592,
+      "fileID": 3719380,
+      "required": true,
+      "__meta": {
+        "name": "Local Looks",
+        "dependencies": [
+          331936
+        ]
       }
     },
     {
@@ -994,6 +1122,19 @@
       "required": true,
       "__meta": {
         "name": "Chalk"
+      }
+    },
+    {
+      "projectID": 535960,
+      "fileID": 3782848,
+      "required": true,
+      "__meta": {
+        "name": "Macaw's Bridges - Oh The Biomes You'll Go",
+        "dependencies": [
+          351725,
+          563928,
+          247560
+        ]
       }
     },
     {
@@ -1076,7 +1217,7 @@
     },
     {
       "projectID": 570463,
-      "fileID": 3776986,
+      "fileID": 3790965,
       "required": true,
       "__meta": {
         "name": "Ecologics",
@@ -1114,7 +1255,7 @@
     },
     {
       "projectID": 582327,
-      "fileID": 3742416,
+      "fileID": 3784442,
       "required": true,
       "__meta": {
         "name": "Smooth Chunk Save[Forge/Fabric]"
@@ -1152,14 +1293,6 @@
       }
     },
     {
-      "projectID": 591666,
-      "fileID": 3753570,
-      "required": true,
-      "__meta": {
-        "name": "Overweight Farming"
-      }
-    },
-    {
       "projectID": 594563,
       "fileID": 3751889,
       "required": true,
@@ -1177,6 +1310,25 @@
       "required": true,
       "__meta": {
         "name": "Radon"
+      }
+    },
+    {
+      "projectID": 599276,
+      "fileID": 3784692,
+      "required": true,
+      "__meta": {
+        "name": "Mine-Pop!"
+      }
+    },
+    {
+      "projectID": 602199,
+      "fileID": 3752209,
+      "required": true,
+      "__meta": {
+        "name": "Curious Lights",
+        "dependencies": [
+          309927
+        ]
       }
     },
     {
@@ -1202,10 +1354,33 @@
     },
     {
       "projectID": 618298,
-      "fileID": 3773682,
+      "fileID": 3784284,
       "required": true,
       "__meta": {
         "name": "Sophisticated Core"
+      }
+    },
+    {
+      "projectID": 619320,
+      "fileID": 3786332,
+      "required": true,
+      "__meta": {
+        "name": "Sophisticated Storage",
+        "dependencies": [
+          618298
+        ]
+      }
+    },
+    {
+      "projectID": 621377,
+      "fileID": 3783382,
+      "required": true,
+      "__meta": {
+        "name": "Curious Lanterns",
+        "dependencies": [
+          309927,
+          602199
+        ]
       }
     }
   ]
