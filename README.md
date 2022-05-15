@@ -1,2 +1,1 @@
-# heir-of-ivaldi
-A minecraft modpack
+https://www.curseforge.com/minecraft/modpacks/heir-of-ivaldi

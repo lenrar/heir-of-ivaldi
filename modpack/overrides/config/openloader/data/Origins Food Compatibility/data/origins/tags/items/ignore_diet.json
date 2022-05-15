@@ -1,0 +1,89 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"required": false,
+			"id": "farmersdelight:milk_bottle"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:cake_slice"
+		},
+		{
+			"required": false,
+			"id": "croptopia:pork_and_beans"
+		},
+		{
+			"required": false,
+			"id": "croptopia:blt"
+		},
+		{
+			"required": false,
+			"id": "croptopia:water_bottle"
+		},
+		{
+			"required": false,
+			"id": "croptopia:cheese"
+		},
+		{
+			"required": false,
+			"id": "culinaire:cheese_wheel"
+		},
+		{
+			"required": false,
+			"id": "croptopia:grilled_cheese"
+		},
+		{
+			"required": false,
+			"id": "croptopia:cheese_pizza"
+		},
+		{
+			"required": false,
+			"id": "croptopia:milk_bottle"
+		},
+		{
+			"required": false,
+			"id": "culinare:milk_bottle"
+		},
+		{
+			"required": false,
+			"id": "rotmgfood:rainbowgummyworm"
+		},
+		{
+			"required": false,
+			"id": "rotmgfood:sugargummyworm"
+		},
+		{
+			"required": false,
+			"id": "rotmgfood:goldbar"
+		},
+		{
+			"required": false,
+			"id": "rotmgfood:oryxcookie"
+		},
+		{
+			"required": false,
+			"id": "rotmgfood:chaoscake"
+		},
+		{
+			"required": false,
+			"id": "rotmgfood:christmastreecupcake"
+		},
+		{
+			"required": false,
+			"id": "rotmgfood:ambrosia"
+		},
+		{
+			"required": false,
+			"id": "rotmgfood:glowinggreengoo"
+		},
+		{
+			"required": false,
+			"id": "rotmgfood:solarenergydrink"
+		},
+		{
+			"required": false,
+			"id": "rotmgfood:softdrink"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"replace": false,
+	"values": [
+        "minecraft:shield",
+    {
+		"required": false,
+		"id": "enderitemod:enderite_shield"
+	}, {
+        "required": false,
+        "id": "artifacts:umbrella"
+    }]
+    }

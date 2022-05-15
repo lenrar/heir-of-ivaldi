@@ -1,0 +1,888 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:rotten_flesh",
+		"minecraft:cod",
+		"minecraft:tropical_fish",
+		"minecraft:pufferfish",
+		"minecraft:salmon",
+		"minecraft:beef",
+		"minecraft:porkchop",
+		"minecraft:mutton",
+		"minecraft:chicken",
+		"minecraft:rabbit",
+		"minecraft:cooked_chicken",
+		"minecraft:cooked_rabbit",
+		"minecraft:rabbit_stew",
+		"minecraft:cooked_porkchop",
+		"minecraft:cooked_cod",
+		"minecraft:cooked_beef",
+		"minecraft:cooked_mutton",
+		"minecraft:cooked_salmon",
+		"minecraft:spider_eye",
+		{
+			"required": false,
+			"id": "croptopia:pepperoni"
+		},
+		{
+			"required": false,
+			"id": "croptopia:beef_jerky"
+		},
+		{
+			"required": false,
+			"id": "croptopia:pork_jerky"
+		},
+		{
+			"required": false,
+			"id": "croptopia:pork_and_beans"
+		},
+		{
+			"required": false,
+			"id": "croptopia:ham_sandwich"
+		},
+		{
+			"required": false,
+			"id": "croptopia:tuna_sandwich"
+		},
+		{
+			"required": false,
+			"id": "croptopia:cheeseburger"
+		},
+		{
+			"required": false,
+			"id": "croptopia:hamburger"
+		},
+		{
+			"required": false,
+			"id": "croptopia:supreme_pizza"
+		},
+		{
+			"required": false,
+			"id": "croptopia:pineapple_pepperoni_pizza"
+		},
+		{
+			"required": false,
+			"id": "croptopia:lemon_chicken"
+		},
+		{
+			"required": false,
+			"id": "croptopia:fried_chicken"
+		},
+		{
+			"required": false,
+			"id": "croptopia:chicken_and_noodles"
+		},
+		{
+			"required": false,
+			"id": "croptopia:chicken_and_dumplings"
+		},
+		{
+			"required": false,
+			"id": "croptopia:chicken_and_rice"
+		},
+		{
+			"required": false,
+			"id": "croptopia:taco"
+		},
+		{
+			"required": false,
+			"id": "croptopia:sushi"
+		},
+		{
+			"required": false,
+			"id": "croptopia:egg_roll"
+		},
+		{
+			"required": false,
+			"id": "croptopia:scrambled_eggs"
+		},
+		{
+			"required": false,
+			"id": "croptopia:cashew_chicken"
+		},
+		{
+			"required": false,
+			"id": "croptopia:carnitas"
+		},
+		{
+			"required": false,
+			"id": "croptopia:enchilada"
+		},
+		{
+			"required": false,
+			"id": "croptopia:fajitas"
+		},
+		{
+			"required": false,
+			"id": "croptopia:quesadilla"
+		},
+		{
+			"required": false,
+			"id": "croptopia:stuffed_poblanos"
+		},
+		{
+			"required": false,
+			"id": "croptopia:tamales"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:burnt_meat_chunk"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:raw_organ_meat"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:cooked_organ_meat"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:raw_butchered_meat"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:cooked_butchered_meat"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:raw_sausage"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:cooked_sausage"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:raw_rich_sausage"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:cooked_rich_sausage"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:raw_mini_sausage"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:cooked_mini_sausage"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:raw_rich_mini_sausage"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:cooked_rich_mini_sausage"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:raw_toxic_organ_meat"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:cooked_toxic_organ_meat"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:raw_toxic_meat"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:cooked_toxic_meat"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:raw_toxic_sausage"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:cooked_toxic_sausage"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:raw_rich_toxic_sausage"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:cooked_rich_toxic_sausage"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:raw_human_organ_meat"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:cooked_human_organ_meat"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:raw_man_meat"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:cooked_man_meat"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:raw_human_sausage"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:cooked_human_sausage"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:raw_rich_human_sausage"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:cooked_rich_human_sausage"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:raw_alien_organ_meat"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:cooked_alien_organ_meat"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:raw_alien_meat"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:cooked_alien_meat"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:raw_alien_sausage"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:cooked_alien_sausage"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:raw_rich_alien_sausage"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:cooked_rich_alien_sausage"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:raw_dragon_organ_meat"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:cooked_dragon_organ_meat"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:raw_dragon_meat"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:cooked_dragon_meat"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:raw_dragon_sausage"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:cooked_cragon_sausage"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:raw_rich_dragon_sausage"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:cooked_rich_dragon_sausage"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:appendix"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:heart"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:intestine"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:kidney"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:liver"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:lung"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:muscle"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:spleen"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:stomach"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:rotten_appendix"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:rotten_heart"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:rotten_intestine"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:rotten_kidney"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:rotten_liver"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:rotten_lung"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:rotten_muscle"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:rotten_spleen"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:rotten_stomach"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:animal_appendix"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:animal_heart"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:animal_intestine"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:animal_kidney"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:animal_liver"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:animal_lung"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:animal_muscle"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:animal_spleen"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:animal_stomach"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:small_animal_appendix"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:small_animal_heart"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:rabbit_heart"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:small_animal_intestine"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:small_animal_kidney"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:small_animal_liver"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:small_animal_lung"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:small_animal_muscle"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:small_animal_spleen"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:small_animal_stomach"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:insect_heart"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:insect_intestine"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:venom_gland"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:silk_gland"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:insect_lung"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:insect_muscle"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:insect_caeca"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:insect_stomach"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:aquatic_muscle"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:small_aquatic_muscle"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:gills"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:fish_muscle"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:small_fish_muscle"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:ender_appendix"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:ender_heart"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:ender_intestine"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:ender_kidney"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:ender_liver"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:ender_lung"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:ender_muscle"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:ender_spleen"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:ender_stomach"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:dragon_appendix"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:dragon_heart"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:dragon_intestine"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:dragon_kidney"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:dragon_liver"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:dragon_lung"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:dragon_muscle"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:dragon_spleen"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:dragon_stomach"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:herbivore_intestine"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:herbivore_stomach"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:herbivore_rumen"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:small_herbivore_intestine"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:small_herbivore_stomach"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:small_herbivore_rumen"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:carnivore_intestine"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:carnivore_stomach"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:small_carnivore_intestine"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:small_carnivore_stomach"
+		},
+		{
+			"required": false,
+			"id": "chestcavity:llama_lung"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:minced_beef"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:beef_patty"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:chicken_cuts"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:cooked_chicken_cuts"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:bacon"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:fried_egg"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:cooked_bacon"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:cod_slice"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:cooked_cod_slice"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:salmon_slice"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:cooked_salmon_slice"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:mutton_chops"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:cooked_mutton_chops"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:ham"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:smoked_ham"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:barbecue_stick"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:egg_sandwich"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:chicken_sandwich"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:hamburger"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:bacon_sandwich"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:mutton_wrap"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:beef_stew"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:chicken_soup"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:fish_stew"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:baked_cod_stew"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:pasta_with_meatballs"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:pasta_with_mutton_chop"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:roasted_mutton_chops"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:steak_and_potatoes"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:grilled_salmon"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:roast_chicken"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:honey_glazed_ham"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:shepherds_pie"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:roast_chicken_block"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:honey_glazed_ham_block"
+		},
+		{
+			"required": false,
+			"id": "farmersdelight:shepherds_pie_block"
+		},
+		{
+			"required": false,
+			"id": "betterend:end_fish_raw"
+		},
+		{
+			"required": false,
+			"id": "betterend:end_fish_cooked"
+		},
+		{
+			"required": false,
+			"id": "requiem:human_flesh"
+		},
+		{
+			"required": false,
+			"id": "bewitchment:demon_heart"
+		},
+		{
+			"required": false,
+			"id": "craftycuisine:cooked_egg"
+		},
+		{
+			"required": false,
+			"id": "craftycuisine:cooked_turtle_egg"
+		},
+		{
+			"required": false,
+			"id": "craftycuisine:shepherds_pie"
+		},
+		{
+			"required": false,
+			"id": "craftycuisine:bacon"
+		},
+		{
+			"required": false,
+			"id": "craftycuisine:cooked_bacon"
+		},
+		{
+			"required": false,
+			"id": "craftycuisine:cooked_spider_eye"
+		},
+		{
+			"required": false,
+			"id": "rotmgfood:slicedyam"
+		},
+		{
+			"required": false,
+			"id": "rotmgfood:powerpizza"
+		},
+		{
+			"required": false,
+			"id": "rotmgfood:thanksgivingturkey"
+		},
+		{
+			"required": false,
+			"id": "rotmgfood:superburger"
+		},
+		{
+			"required": false,
+			"id": "rotmgfood:christmasturkeyleg"
+		},
+		{
+			"required": false,
+			"id": "rotmgfood:doublecheeseburgerdeluxe"
+		},
+		{
+			"required": false,
+			"id": "rotmgfood:eyecicle"
+		},
+		{
+			"required": false,
+			"id": "rotmgfood:reindeerfood"
+		},
+		{
+			"required": false,
+			"id": "rotmgfood:napalmtaco"
+		},
+		{
+			"required": false,
+			"id": "rotmgfood:greattaco"
+		},
+		{
+			"required": false,
+			"id": "rotmgfood:eggomelette"
+		},
+		{
+			"required": false,
+			"id": "yummyfoods:pepperoni_pizza"
+		},
+		{
+			"required": false,
+			"id": "yummyfoods:pepperoni_pizza_slice"
+		},
+		{
+			"required": false,
+			"id": "yummyfoods:sunny_side_egg"
+		},
+		{
+			"required": false,
+			"id": "yummyfoods:uncooked_scrambled_eggs"
+		},
+		{
+			"required": false,
+			"id": "yummyfoods:uncooked_cheesy_scrambled_eggs"
+		},
+		{
+			"required": false,
+			"id": "yummyfoods:cooked_scrambled_eggs"
+		},
+		{
+			"required": false,
+			"id": "yummyfoods:cooked_cheesy_scrambled_egg"
+		},
+		{
+			"required": false,
+			"id": "yummyfoods:fried_chicken"
+		},
+		{
+			"required": false,
+			"id": "yummyfoods:raw_chicken"
+		}
+	]
+}

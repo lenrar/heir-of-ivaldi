@@ -1,0 +1,12 @@
+{
+  "mustHaveClock": true,
+  "clockHPos": "MIDDLE",
+  "clockVPos": "BOTTOM",
+  "clockXOff": 0,
+  "clockYOff": 0,
+  "mustHaveCompass": true,
+  "compassHPos": "LEFT",
+  "compassVPos": "TOP",
+  "compassXOff": 0,
+  "compassYOff": 0
+}
